@@ -7,6 +7,8 @@
 5. [Vue](https://vuejs.org/)
 6. [Backbone](http://backbonejs.org/)
 
+---
+
 - [Aurelia](http://aurelia.io/)
 - [Meteor](https://www.meteor.com/)/[Blaze](http://blazejs.org/)
 - [Knockout](http://knockoutjs.com/)
