@@ -9,3 +9,7 @@
 7. [Polymer](https://www.polymer-project.org/)
 8. [Ember](http://emberjs.com/)
 9. [Aurelia](http://aurelia.io/)
+
+---
+
+* [Preact](https://preactjs.com/)
